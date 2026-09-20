@@ -1,13 +1,12 @@
-💻 Pragya Mishra — Personal Portfolio
+## 💻 Pragya Mishra — Personal Portfolio
 
 Welcome to my personal portfolio! 🚀
 
 This portfolio showcases my projects, technical skills, certifications, achievements, and experience as a Computer Science Engineering student.
 
-🔗 Live Portfolio: [Add your deployed portfolio link here]
-📄 Resume: [Add your Google Drive / portfolio resume link here]
+📄 Resume: https://drive.google.com/file/d/1-K4BEhuftpF60Crs35KthaxCZfXj9iMk/view?usp=sharing
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi, I'm Pragya Mishra, a Computer Science Engineering student passionate about:
 
