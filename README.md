@@ -1,6 +1,6 @@
 ## 💻 Pragya Mishra — Personal Portfolio
 
-Hello! My name is Pragya Mishra🚀
+Hello! My name is Pragya Mishra.
 
 This portfolio showcases my projects, technical skills, certifications, achievements, and experience as a Computer Science Engineering student.
 
